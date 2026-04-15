@@ -1,7 +1,5 @@
 # Predictive-Modeling-of-Beneficiary-Cost-Drivers
 
-<h1>E-commerce Consumer Archetyping</h1>
-
 <h2>Tools Used</h2>
 
 - <b>R:</b> Data Cleaning, Exploration, and Modeling
@@ -10,25 +8,19 @@
 <h2>Dataset and Description</h2>
 <b>Source: </b>
 <b>Size: </b>
-<b>Description: The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
+<b>Description: 
 </b>
 <br />
 <br />
 <b>Key Features: </b>
-The script is used in this demo where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot.
-We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to
-look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
-<br />
-<br />
 
-<p align="center">
-<img src="https://i.imgur.com/3d3CEwZ.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
-</p>
+<br />
+<br />
 
 
 <h2>Data Cleaning and Pre-Processing</h2>
 
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
+- <b>ipgeolocation.io:</b> text here
 
 <h2>Exploratory Data Analysis</h2>
 
